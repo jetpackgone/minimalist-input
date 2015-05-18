@@ -2,7 +2,7 @@
 
 ### About
 
-The purpose of this script is to provide a simpler interface for inputting actor names and passwords in RPG Maker VX Ace, as the current interface contains too many characters that are unlikely to be necessary.
+The purpose of this script is to provide a simpler interface for inputting actor names and passwords in RPG Maker VX Ace, as the current interface contains too many characters that are unlikely to be necessary. Scripts for RPG Maker VX Ace are in Ruby (RGSS3).
 
 Feel free to use and modify this script, and please credit me if you do.
 
